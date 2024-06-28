@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat"><img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat"><img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">　　<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
 
-## 0.※卒業制作のプロトタイプとなります。一部のボタンしか動作しませんのでご注意ください。
-　　挙動確認方法：
+## 0.※卒業制作のプロトタイプとなります。<br>一部のボタンしか動作しませんのでご注意ください。
+　　挙動確認方法：<br>
     ⅰ.トップページの「新規登録」を押下⇒登録画面⇒登録画面の「登録」を押下⇒トップページ
     ⅱ.トップページの「お問い合わせ」を押下⇒データベース登録状況確認画面
 
